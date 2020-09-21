@@ -1,0 +1,34 @@
+{
+  "agencies": [
+    {
+      "id": 1,
+      "companies": [
+        {
+          "id": 1,
+          "name": "The Belmont Bros.",
+          "settings": {
+            "status": "active"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Trutone Records",
+          "settings": {
+            "status": "active"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Langley & Lorenz"
+        },
+        {
+          "id": 4,
+          "name": "Midland Wellness Group",
+          "settings": {
+            "status": "disabled"
+          }
+        }
+      ]
+    }
+  ]
+}
